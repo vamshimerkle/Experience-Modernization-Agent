@@ -1,5 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-block-collection-xwalk/main"
+    url: "https://localhost:8443/bin/franklin.delivery/vamshimerkle/Experience-Modernization-Agent/main"
     type: "markup"
     suffix: ".html"
+    # url: https://globalappsportal.sharepoint.com/sites/vamshisite/Shared%20Documents/eds
